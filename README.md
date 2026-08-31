@@ -1,3 +1,12 @@
+PROJECT MOVED TO GITLAB 100+ IN SIZE. GITLAB OFFERS 100 MEGABYTE ZIPPED FILES.
+HERE IS THE LINK
+https://gitlab.com/dragonchamp01-group/mpc1-matrix-pascal-compiler-1
+WE HAVE MADE AN CLONE OF VISUAL STUDIO CALLED MATRIX STUDIO. WITH A.I. CODING AGENTS FREE FREE FREE FREE FREE.
+
+
+
+
+
 # matrix_pascal_compiler_1
 scientific , easy to make a.i. bots and tools for LINUX ONLY os. using a simple build from scracth linux pascal compiler with a large folder RTL,EXAMPLES FULL OF EASY A.I. STARTUP PROJECTS.
 
